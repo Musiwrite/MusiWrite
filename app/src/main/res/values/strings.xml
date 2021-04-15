@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusiWrite</string>
+    <string name="title">MusiWrite</string>
+    <string name="buttonOneLabel">Song #1 </string>
+    <string name="buttonTwoLabel">Song #2</string>
+    <string name="buttonThreeLabel">Song #3</string>
+    <string name="buttonFourLabel">Song #4</string>
+    <string name="descriptionLabel"> Choose a song to visualize:</string>
+    <string name="timePlaceHolder"> #:##/#:## </string>
+    <string name="visualizationSongName"> Song Name - Artist </string>
+
+
+</resources>
